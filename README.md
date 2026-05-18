@@ -39,3 +39,7 @@ Ao executar o programa, o usuário informa um CPF:
 ```text
 Digite o CPF: 111.444.777-35
 CPF válido!
+
+## Autor
+
+Desenvolvido por Victor-Suander.
